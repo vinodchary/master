@@ -1,0 +1,13 @@
+gios]
+host-01 ansible_host=192.168.1.7
+
+[servers]
+host-02 ansible_host=192.168.1.7
+
+[webservers]
+
+host03 ansible_host=192.168.1.7
+
+[oobservers]
+host04 ansible_host=192.168.1.8
+
